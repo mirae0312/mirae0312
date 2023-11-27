@@ -3,6 +3,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=100)
 [![Leana's GitHub stats](https://github-readme-stats.vercel.app/api?username=mirae0312&include_all_commits=true&theme=nord&hide_border=true&count_private=true)](https://github.com/mirae0312/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mirae0312)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mirae0312&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mirae0312&layout=compact)](https://github.com/mirae0312/github-readme-stats)
 <br>
 ## Dev's log
 <div style="display:flex; flex-direction:row;">
