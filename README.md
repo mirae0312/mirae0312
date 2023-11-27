@@ -1,4 +1,4 @@
-### Hi there 👋
+### 개발자 김미래입니다 😊
 
 <!--
 **mirae0312/mirae0312** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
