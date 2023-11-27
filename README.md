@@ -1,6 +1,6 @@
 <div align="left">
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=150)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=100)
 ---
   
 [![GITHUB](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmirae0312&count_bg=%23F29494&title_bg=%232F2E2E&icon=github.svg&icon_color=%23FFFFFF&title=GITHUB&edge_flat=false)](https://github.com/mirae0312)
@@ -18,7 +18,7 @@
         <!--<img src="https://img.shields.io/badge/Notion-9999FF?style=for-the-badge&logo=Notion&logoColor=white"> -->
     </a>
   
-[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=easyhomputer&theme=default)](https://how-mrk.tistory.com/)
+[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=how-mrk&theme=default)](https://how-mrk.tistory.com/)
 </div><br>
 
  
