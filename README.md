@@ -1,7 +1,8 @@
 <div align="left">
   
 <!--![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=100)-->
-![heaber]("https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=mirae github 🥰&fontSize=90")
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=mirae github 🥰&fontSize=90)
 <p>
   <img height="180em" src="https://github-readme-stats-veggie-garden.vercel.app/api?username=mirae0312&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
   <img height="180em" src="https://github-readme-stats-veggie-garden.vercel.app/api/top-langs/?username=mirae0312&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
