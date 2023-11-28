@@ -1,6 +1,10 @@
 <div align="left">
   
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=100)
+<p>
+  <img height="180em" src="https://github-readme-stats-veggie-garden.vercel.app/api?username=veggie-garden&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
+  <img height="180em" src="https://github-readme-stats-veggie-garden.vercel.app/api/top-langs/?username=veggie-garden&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
+</p>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mirae0312)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mirae0312&layout=compact)](https://github.com/mirae0312/github-readme-stats)
 <br>
