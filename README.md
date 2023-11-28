@@ -2,7 +2,7 @@
   
 <!--![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=100)-->
 
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=mirae%github%🥰&fontSize=40)
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=Hello%20World✋%20I'm%20Hyeji!&fontSize=40)
 <p>
   <img height="180em" src="https://github-readme-stats-veggie-garden.vercel.app/api?username=mirae0312&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
   <img height="180em" src="https://github-readme-stats-veggie-garden.vercel.app/api/top-langs/?username=mirae0312&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
