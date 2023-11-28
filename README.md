@@ -1,8 +1,6 @@
 <div align="left">
   
-<!--![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=100)-->
-
-![header](https://capsule-render.vercel.app/api?type=soft&color=0:c6acf6,100:E6B9F7&height=150&section=header&text=Hello%20Github✋%20I'm%20Mirae!&fontSize=40)
+## 안녕하세요 김미래입니다.
 <p>
   <img height="180em" src="https://github-readme-stats-veggie-garden.vercel.app/api?username=mirae0312&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
   <img height="180em" src="https://github-readme-stats-veggie-garden.vercel.app/api/top-langs/?username=mirae0312&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
