@@ -17,13 +17,6 @@
   
 [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=how-mrk&theme=default)](https://how-mrk.tistory.com/) 
 </div>
-
-## Contact
-<div style="display:flex; flex-direction:row;">
-    <a href="mailto:ekdtls58@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
-    </a>
-</div><br>
     
 ## Once I've used 
 <div style="display:flex; flex-direction:row;">
@@ -45,6 +38,15 @@
     <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"> 
     <img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white">
     <br>
-</div><br>
+</div>
+<br>
+
+## Contact
+<div style="display:flex; flex-direction:row;">
+    <a href="mailto:ekdtls58@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
+    </a>
+</div>
+<br>
 </div>
 
